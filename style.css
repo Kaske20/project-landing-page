@@ -4,7 +4,7 @@
 }
 body {
     margin: 0;
-    font-family: "Roboto"; sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 .container1 {
     background-color: #1f2937;
@@ -134,8 +134,21 @@ body {
     justify-content: center;
     padding-top: 150px;
     padding-bottom: 150px;
+    background-color: #E5E7EB;
 }
 .mainquote {
     display: flex;
     flex-direction: column;
+    width: 1200px;
+}
+.quotetext {
+    font-size: 36px;
+    color: #1F2937;
+}
+.quotename {
+    display: flex;
+    font-size: 36px;
+    color: #1F2937;
+    justify-content: end;
+    padding-right: 30px;
 }
