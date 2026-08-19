@@ -50,6 +50,9 @@ body {
     padding-bottom: 100px;
     padding-left: 40px;
 }
+.imgthumb {
+    border-radius: 10px;
+}
 .signup1 {
     color: #f9fafb;
     background-color: #3882F6;
