@@ -1,1 +1,1 @@
-# project-landing-page
+This is just a joke website.
