@@ -166,29 +166,21 @@ body {
     justify-content:space-between;
     align-items: center;
     background-color: #3882F6;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    padding-left: 140px;
-    padding-right: 120px;
+    width: 650px;
+    padding: 50px 130px;
     border-radius: 10px;
 }
 .bannertext1 {
     color: #f9fafb;
     margin: 2px;
-    padding-top: 30px;
-    padding-right: 5px;
+    font-size: 18px;
 }
 .bannertext2 {
     color: #f9fafb;
     margin: 2px;
-    padding-bottom: 30px;
-    padding-right: 5px;
 }
 .button {
     display: flex;
-    justify-content: center;
-    padding-left: 70px;
-    padding-right: 30px;
 }
 .signup2 {
     color: #f9fafb;
