@@ -95,6 +95,7 @@ body {
 .descriptioncontainer {
     display: flex;
     justify-content: center;
+    padding-bottom: 150px;
 
 }
 .description  {
@@ -109,9 +110,27 @@ body {
 .img1 {
     border-radius: 10px;
 }
+.names {
+    color: #f9fafb;
+    padding-top: 8px;
+    font-size: 22px;
+    font-weight: 900;
+}
 .text1 {
     color: #f9fafb;
     font-size: 18px;
     padding-top: 6px;
     padding-bottom: 6px;
+}
+
+
+.quote {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.mainquote {
+    display: flex;
+    flex-direction: column;
 }
