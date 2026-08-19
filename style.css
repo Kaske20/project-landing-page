@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+.container1 {
+    background-color: #1f2937;
+}
+.toptext {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: #f9fafb;
+}
+.links {
+    display: flex;
+}
+.links div {
+    margin-right: 15px;
+}
+
+.logo {
+    margin: 0;
+}
