@@ -70,6 +70,12 @@ body {
 }
 .subtext1 {
     font-size: 18px;
+    margin-bottom: 6px;
+    margin-top: 8px;
+}
+.subtext2 {
+    font-size: 18px;
+    margin-top: 6px;
 }
 
 
