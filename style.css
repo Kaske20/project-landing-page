@@ -68,3 +68,41 @@ body {
 .subtext1 {
     font-size: 18px;
 }
+
+
+.title2 {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+}
+.container3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 800px;
+}
+.descriptioncontainer {
+    display: flex;
+    justify-content: center;
+
+}
+.description  {
+    background-color: #1f2937;
+    border-radius: 10px;
+    border: 1px solid #1f2937;
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    text-align: center;
+}
+.img1 {
+    border-radius: 10px;
+}
+.text1 {
+    color: #f9fafb;
+    font-size: 18px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
