@@ -133,7 +133,7 @@ body {
     display: flex;
     justify-content: center;
     padding-top: 150px;
-    padding-bottom: 150px;
+    padding-bottom: 140px;
     background-color: #E5E7EB;
 }
 .mainquote {
@@ -144,6 +144,7 @@ body {
 .quotetext {
     font-size: 36px;
     color: #1F2937;
+    font-weight: 300;
 }
 .quotename {
     display: flex;
@@ -157,17 +158,18 @@ body {
 .container4 {
     display: flex;
     justify-content: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
 }
 .banner1 {
     display: flex;
-    justify-content:center;
-    flex-direction: row;
-    align-items: flex-start;
+    justify-content:space-between;
+    align-items: center;
     background-color: #3882F6;
     padding-bottom: 10px;
     padding-top: 10px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 140px;
+    padding-right: 120px;
     border-radius: 10px;
 }
 .bannertext1 {
@@ -185,6 +187,8 @@ body {
 .button {
     display: flex;
     justify-content: center;
+    padding-left: 70px;
+    padding-right: 30px;
 }
 .signup2 {
     color: #f9fafb;
